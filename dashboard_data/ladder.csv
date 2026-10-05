@@ -1,0 +1,8 @@
+model,elasticity,std_error,ci_low,ci_high,rows
+A. Naive (no controls),1.1,0.009,1.082,1.118,
+B. + product baseline,1.077,0.009,1.059,1.094,
+C. + week baseline,0.381,0.01,0.361,0.401,
+D. + product age,0.194,0.009,0.175,0.212,
+E. + category-by-week baseline,0.111,0.01,0.092,0.131,1199075.0
+F. + last week's sales,-0.0,0.004,-0.008,0.007,1199075.0
+G. only products that sold 5+ last week,-0.088,0.005,-0.099,-0.078,745198.0

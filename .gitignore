@@ -10,3 +10,6 @@ data/processed/
 *.csv
 *.zip
 *.parquet
+
+!dashboard_data/
+!dashboard_data/*.csv

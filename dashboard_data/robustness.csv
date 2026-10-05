@@ -1,0 +1,5 @@
+model,rows,elasticity,std_error,ci_low,ci_high
+last week's sales >= 5,745198,-0.0884,0.0053,-0.0989,-0.078
+last week's sales >= 10,537717,-0.1649,0.0065,-0.1776,-0.1522
+last week's sales >= 20,331991,-0.2298,0.0084,-0.2464,-0.2132
+new launches only (last week >= 5),473861,-0.1137,0.0069,-0.1273,-0.1001
